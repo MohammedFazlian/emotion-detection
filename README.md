@@ -44,4 +44,4 @@ three different input methods — facial expressions, speech, and text.
 
 Mohammed Fazlian  
 Cybersecurity & AI Enthusiast  
-[LinkedIn] | [Email]
+mdfazlian30@gmail.com
