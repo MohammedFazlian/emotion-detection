@@ -7,7 +7,7 @@ import google.generativeai as genai
 from googletrans import Translator
 translator = Translator()
 
-genai.configure(api_key='AIzaSyATYXFs8ZyUNhKJ7VTzFGmj_KChiO8nUu4')
+genai.configure(api_key='YOUR_API_KEY_HERE')
 gemini_model = genai.GenerativeModel('gemini-2.0-flash')
 chat = gemini_model.start_chat(history=[])
 
